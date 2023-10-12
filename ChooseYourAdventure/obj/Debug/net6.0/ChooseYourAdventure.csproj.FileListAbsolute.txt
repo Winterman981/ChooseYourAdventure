@@ -1,0 +1,14 @@
+C:\Users\teera\OneDrive\Desktop\HenryStikminParody\ChooseYourAdventure\bin\Debug\net6.0\ChooseYourAdventure.exe
+C:\Users\teera\OneDrive\Desktop\HenryStikminParody\ChooseYourAdventure\bin\Debug\net6.0\ChooseYourAdventure.deps.json
+C:\Users\teera\OneDrive\Desktop\HenryStikminParody\ChooseYourAdventure\bin\Debug\net6.0\ChooseYourAdventure.runtimeconfig.json
+C:\Users\teera\OneDrive\Desktop\HenryStikminParody\ChooseYourAdventure\bin\Debug\net6.0\ChooseYourAdventure.dll
+C:\Users\teera\OneDrive\Desktop\HenryStikminParody\ChooseYourAdventure\bin\Debug\net6.0\ChooseYourAdventure.pdb
+C:\Users\teera\OneDrive\Desktop\HenryStikminParody\ChooseYourAdventure\obj\Debug\net6.0\ChooseYourAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teera\OneDrive\Desktop\HenryStikminParody\ChooseYourAdventure\obj\Debug\net6.0\ChooseYourAdventure.AssemblyInfoInputs.cache
+C:\Users\teera\OneDrive\Desktop\HenryStikminParody\ChooseYourAdventure\obj\Debug\net6.0\ChooseYourAdventure.AssemblyInfo.cs
+C:\Users\teera\OneDrive\Desktop\HenryStikminParody\ChooseYourAdventure\obj\Debug\net6.0\ChooseYourAdventure.csproj.CoreCompileInputs.cache
+C:\Users\teera\OneDrive\Desktop\HenryStikminParody\ChooseYourAdventure\obj\Debug\net6.0\ChooseYourAdventure.dll
+C:\Users\teera\OneDrive\Desktop\HenryStikminParody\ChooseYourAdventure\obj\Debug\net6.0\refint\ChooseYourAdventure.dll
+C:\Users\teera\OneDrive\Desktop\HenryStikminParody\ChooseYourAdventure\obj\Debug\net6.0\ChooseYourAdventure.pdb
+C:\Users\teera\OneDrive\Desktop\HenryStikminParody\ChooseYourAdventure\obj\Debug\net6.0\ChooseYourAdventure.genruntimeconfig.cache
+C:\Users\teera\OneDrive\Desktop\HenryStikminParody\ChooseYourAdventure\obj\Debug\net6.0\ref\ChooseYourAdventure.dll
